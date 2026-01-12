@@ -19,10 +19,3 @@ class EnvConfigProvider:
             raise EnvironmentError(
                 "Internal auth token variable is not set")
         return internal_token
-
-
-if __name__ == "__main__":
-    c = EnvConfigProvider()
-    connection_str = c.get_db_conn_str()
-    print("connection string:")
-    print(connection_str)
