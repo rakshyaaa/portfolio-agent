@@ -6,7 +6,7 @@ This app demonstrates the autonomous LLM agent with:
 - Ollama or OpenAI support
 """
 
-from llm_fundraising_agent import LLMPortfolioAgent
+from portfolio_agent import LLMPortfolioAgent
 import streamlit as st
 import sys
 import os

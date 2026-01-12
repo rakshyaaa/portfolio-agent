@@ -22,7 +22,7 @@ class PortfolioTools:
     def _load_data(self) -> Dict[str, Any]:
         if not self.data_path.exists():
             return {"error": f"Portfolio data file not found: {self.data_path}"}
-        with self.data_path.open("r", encoding="utf-8") as handle:
+        with self.data_path.open("r", encoding="utf-8-sig") as handle:
             return json.load(handle)
 
     def _dump(self, data: Any) -> str:

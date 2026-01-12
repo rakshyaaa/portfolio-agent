@@ -2,7 +2,7 @@
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from config_provider import EnvConfigProvider
-from llm_fundraising_agent import LLMPortfolioAgent
+from portfolio_agent import LLMPortfolioAgent
 from ollama import Client as OllamaClient
 from openai import OpenAI
 

@@ -11,7 +11,7 @@ summarize portfolio details without hallucinating.
 
 - `enhanced_agent/fastapi_app.py`: FastAPI service exposing a `/portfolio/ask` endpoint.
 - `enhanced_agent/streamlit_app.py`: Streamlit UI for interactive exploration and debugging.
-- `enhanced_agent/llm_fundraising_agent.py`: Core agent loop that drives tool calls and LLM reasoning.
+- `enhanced_agent/portfolio_agent.py`: Core agent loop that drives tool calls and LLM reasoning.
 - `enhanced_agent/agent_tools.py`: Read-only tools that expose portfolio data from JSON.
 - `enhanced_agent/portfolio_data.json`: Portfolio content (single source of truth).
 - `enhanced_agent/config_provider.py`: Environment-based configuration provider for API keys.
