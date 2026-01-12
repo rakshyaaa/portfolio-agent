@@ -3,6 +3,4 @@ __pycache__
 .env
 models/
 archive/
-wealth_engine_vectorDB/
 enhanced_agent/.venv
-enhanced_agent/database/
