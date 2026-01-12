@@ -80,7 +80,7 @@ class AskResponse(BaseModel):
 INTERNAL_TOKEN = EnvConfigProvider().get_internal_auth_token()
 
 
-# Secure FastAPI with an internal header -- so that only spring boot can call it
+# Secure FastAPI with an internal header
 async def verify_internal_auth(x_internal_auth: str = Header(None)):
     if x_internal_auth != INTERNAL_TOKEN:
         raise HTTPException(
