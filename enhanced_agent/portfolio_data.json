@@ -1,0 +1,213 @@
+﻿{
+  "profile": {
+    "name": "Rakshya Pandey",
+    "tagline": "just a girl turning raw data into neat decisions - where curiosity meets analytics 💻✨",
+    "about": "I’m a data-driven problem solver who turns information into impact. My journey began helping with my father’s business, where I learned how simple purchasing data could reveal patterns that improved decisions and sales. That spark led me to pursue analytics, blending technical precision with business insight. Now completing my Master’s in Computer Science at the University of Louisiana at Lafayette (graduating December 2025), I specialize in Data analytics. I’m passionate about using data to tell stories, uncover opportunities, and help organizations make smarter, faster, and more meaningful decisions."
+  },
+  "contact": {
+    "email": "rakshya.workspace@gmail.com"
+  },
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/rakshyaaa"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rakshya-pandey/"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/jellybeannnnnnnnn/"
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Louisiana at Lafayette",
+      "location": "Lafayette, USA",
+      "dates": "Aug 2024 – Dec 2025",
+      "degree": "Master's of Science in Computer Science"
+    },
+    {
+      "school": "St. Xavier's College, Tribhuvan University",
+      "location": "Kathmandu, Nepal",
+      "dates": "2017 – 2021",
+      "degree": "Bachelor's of Science in Computer Science and Information Technology"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages & Tools",
+      "items": [
+        "SQL",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "category": "Data, BI & Visualization",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Tableau",
+        "Power BI",
+        "AtScale",
+        "SSRS",
+        "SSMS",
+        "Excel"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "Snowflake",
+        "Oracle ADW",
+        "Microsoft SQL Server",
+        "NoSQL (MongoDB)",
+        "VectorDB (ChromaDB)"
+      ]
+    },
+    {
+      "category": "Data Warehousing",
+      "items": [
+        "dbt",
+        "Data Modeling (Star Schema, Snowflake Schema)",
+        "Data Vault",
+        "ETL/ELT"
+      ]
+    },
+    {
+      "category": "Data Orchestration",
+      "items": [
+        "JAMS Scheduler",
+        "Apache Airflow"
+      ]
+    },
+    {
+      "category": "Cloud",
+      "items": [
+        "AWS",
+        "GCP"
+      ]
+    },
+    {
+      "category": "AI/ML",
+      "items": [
+        "Predictive modeling (Logistic Regression, Classification)",
+        "Deep Learning (CNN)",
+        "Generative AI (LangChain, RAG)",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "category": "Web Frameworks",
+      "items": [
+        "AngularJS",
+        "React",
+        "Java Spring Boot"
+      ]
+    },
+    {
+      "category": "Development & Version Control",
+      "items": [
+        "VS Code",
+        "Git",
+        "CI/CD",
+        "Jira",
+        "Confluence",
+        "SourceTree",
+        "MS Office",
+        "Agile"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate Assistant – Advancement Operations",
+      "organization": "University of Louisiana at Lafayette Foundation",
+      "organization_url": "https://advancement.louisiana.edu/node/6",
+      "dates": "Aug 2024 – Present",
+      "highlights": [
+        "Built an AI powered Fundraising Trip Advisor integrating OpenAI GPT with CRM data and analytical scoring logic to surface high value fundraising prospects, reducing manual analysis and improving decision making for development officers.",
+        "Designed and developed interactive Power BI dashboards with advanced DAX calculations, integrating SQL Server for data-driven decision-making; built prospect research dashboards analyzing WealthEngine and contribution data; implemented scoring models to identify the top 10% of high-value donors.",
+        "Built a Python automation framework to update 270K+ CRM records via Microsoft Web API, implementing authenticated, paginated PATCH operations to streamline data entry and enhance integrity.",
+        "Designed and deployed a responsive landing page integrating real-time donor statistics from SQL Server directly into the website, delivering interactive fundraising visuals that boosted donor engagement by 25%.",
+        "Managed the technology stack and AWS architecture of the university foundation website, ensuring high performance, security, and WCAG 2.1 AA accessibility compliance.",
+        "Researched and implemented a SQL AI agent prototype (LangChain + LLaMA 3 via Ollama) for natural language query automation in Jupyter Notebook."
+      ]
+    },
+    {
+      "title": "Software Engineer – Data & Business Intelligence",
+      "organization": "LIS Nepal Pvt. Ltd.",
+      "organization_url": "https://lisnepal.com.np/",
+      "dates": "Feb 2022 – Jul 2024",
+      "highlights": [
+        "Served Retail and e-Commerce Clients: Ralph Lauren, Belk, Bluemercury, Kayanee.",
+        "Designed and optimized BI data models in AtScale for 50+ KPIs across sales, merchandising, inventory, and operations.",
+        "Developed interactive Tableau dashboards with advanced LOD calculations and implemented Row-Level Security (RLS), improving leadership insights and operational reporting.",
+        "Integrated data from multiple sources (Resa, Shopify, KWI, ERP, Medallia, Clienteling, Airship, Ordergroove) into enterprise Data Warehouses and Data Vault models.",
+        "Built and maintained customer data pipelines for Acquia Customer Data Platform (CDP), ensuring data accuracy, PII compliance, and end-to-end validation.",
+        "Reduced data inconsistencies by 80% through end-to-end pipeline analysis and validation processes.",
+        "Automated ETL workflows using JAMS Scheduler, Apache Airflow DAGs, and Python alerting scripts, cutting monitoring workload by 70%.",
+        "Developed AWS Glue, S3, Lambda, and EventBridge ETL pipelines for real-time data transfer from Google BigQuery to Amazon Redshift, achieving 99% pipeline accuracy.",
+        "Led offshore development teams, optimized ETL performance across multi-client environments, and mentored analysts on BI and data engineering best practices."
+      ]
+    },
+    {
+      "title": "Fellowship",
+      "organization": "Women Leaders in Technology (WLiT)",
+      "organization_url": "https://www.linkedin.com/company/wlit-nepal/posts/?feedView=all",
+      "dates": "Oct 2021 - Aug 2022",
+      "highlights": [
+        "Completed intensive technical and leadership bootcamps focused on GitHub, JavaScript, teamwork, and communication.",
+        "Co-developed SheCrafts - a web platform empowering marginalized women to showcase their crafts using HTML, CSS, JS, and PHP.",
+        "Led an Hour of Code workshop for 40+ Grade 8 students, fostering early interest in programming and digital literacy.",
+        "Engaged in monthly tech meetups to strengthen community ties and enhance professional growth."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Chrun Prediction",
+      "url": "https://github.com/rakshyaaa/Customer-Churn-Prediction-Notebook",
+      "summary": "Evaluated multiple classification models to predict telecom customer churn and applied SHAP explainability to identify key churn drivers."
+    },
+    {
+      "name": "Heart Disease Prediction",
+      "url": "https://github.com/rakshyaaa/Heart-Disease-Prediction-using-Logistic-Regression",
+      "summary": "Performed statistical feature selection (t-test & chi-square) and built a logistic regression model on the Cleveland dataset."
+    },
+    {
+      "name": "Plantopedia",
+      "url": "https://github.com/rakshyaaa/Plantopedia-Plant-Identifier",
+      "summary": "Plant classification web app; developed classification model training RestNet34 CNN with 96.86%."
+    },
+    {
+      "name": "Year by Year Sales Dashboard",
+      "url": "https://github.com/rakshyaaa/YearByYear-Sales-Report--Power-BI",
+      "summary": "Sales trend reporting, LY growth, product KPIs."
+    },
+    {
+      "name": "Healthcare Billing Insights Dashboard",
+      "url": "https://github.com/rakshyaaa/Healthcare-Billing-Insights-Dashboard-PowerBI",
+      "summary": "Analyzed £3M billing data across treatments, departments, and insurance."
+    },
+    {
+      "name": "OpenFEMA Disaster Data Pipeline and Analysis",
+      "url": "https://github.com/rakshyaaa/OpenFema-Disaster-DataStreamline",
+      "summary": "Data pipeline to extract OpenFEMA API data into SQL Server, applied ETL transformations, and built SQL views powering Power BI maps of disaster impact areas."
+    },
+    {
+      "name": "8-bit-Games (ReactJS)",
+      "url": "https://github.com/rakshyaaa/8-bit-Games",
+      "summary": "A web interface to browse and play games."
+    },
+    {
+      "name": "Flappybird",
+      "url": "https://github.com/rakshyaaa/FlappyBird",
+      "summary": "A web game."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+streamlit>=1.32
+chromadb>=0.4.0  # Optional, for vector search
+sentence-transformers>=2.2.0  # Optional, for embeddings
+ollama>=0.1.8  # Optional, for local LLM
+openai>=0.27.0  # Optional, for OpenAI LLM
